@@ -1,0 +1,68 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    height: 100vh;
+    background-image: url("https://fandom.vn/wp-content/uploads/2019/06/hp-harry-gringrott-gold-1.jpg");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container {
+    background: rgba(0, 0, 0, 0.3);
+    text-align: center;
+    width: fit-content;
+    padding: 2rem;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 30px;
+    font-size: 40px; 
+    font-weight: 800;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+    font-size: 20px;
+    margin-bottom: 25px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  input {
+    margin: 12px;
+    padding: 6px;
+    border-radius: 5px;
+  }
+  
+  label {
+    color: white;
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    background: #ffffff;
+    margin-bottom: 15px;
+  }
+  
+  h2 {
+    color: #ffffff;
+    font-size: 30px;
+  }
+  
